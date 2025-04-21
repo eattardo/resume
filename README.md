@@ -122,8 +122,8 @@ Download the list of my publications [📎](assets/Attardo-Publications.pdf)
 ### Blockchain and Web3
 
 - [Blockchain Basics](https://coursera.org/share/158b4d77a091423234be57de87a6b0b0)
-- [Blockchain Council – Certified Blockchain Expert](https://www.credential.net/365a52e2-330a-49e9-b9e7-8ba791d1c381#acc.Y2MDuRSJ) :blockchain:
-- [Blockchain Council – Certified Solidity Developer](https://certificates.blockchain-council.org/c7769cf9-605a-4cd4-8f51-788c7af69d04#acc.qL28xy1X) :blockchain:
+- [Blockchain Council – Certified Blockchain Expert](https://www.credential.net/365a52e2-330a-49e9-b9e7-8ba791d1c381#acc.Y2MDuRSJ)
+- [Blockchain Council – Certified Solidity Developer](https://certificates.blockchain-council.org/c7769cf9-605a-4cd4-8f51-788c7af69d04#acc.qL28xy1X)
 - [Smart Contracts](https://coursera.org/share/cc2f3159e40d2b5d90df13c261677a44)
 
 ### Deep Learning / AI
