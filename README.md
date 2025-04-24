@@ -135,4 +135,5 @@ Download the list of my publications [📎](assets/Attardo-Publications.pdf)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/e7daacc65f0b6377a0eb2c1049c9833a)
 
 ---
-
+<img src="assets\my_logo.png" class="logo" width="80
+"/>
