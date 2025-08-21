@@ -58,7 +58,7 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 - Developed novel algorithms for metamaterial modeling within the FEM solver framework
 - Led C++ development initiatives and code modernization efforts
 
-**Technologies:** CUDA, C++, Intel MKL, OpenMP, MPI, GPU profiling tools
+**Technologies:** CUDA, C++, Intel MKL, OpenMP, MPI, GPU profiling tools (NVIDIA Nsight)
 
 ---
 
