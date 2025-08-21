@@ -169,6 +169,7 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 - **English:** Fluent
 - **Italian:** Native
 - **German:** Intermediate
+
 ---
 
 <img src="assets\my_logo.png" class="logo" width="80
