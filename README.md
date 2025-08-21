@@ -6,13 +6,12 @@ Core expertise in computational electromagnetics with successful applications ac
 
 ---
 
-
 ## Areas of Expertise
 
 - **High-Performance Computing:** GPU acceleration (CUDA), multi-GPU systems, parallel algorithms, performance optimization
 - **Scientific Computing:** Finite Element Methods (FEM), computational electromagnetics, inverse problems, numerical linear algebra
 - **Algorithm Development:** Sparse and dense matrix solvers, preconditioners, domain decomposition methods, iterative solvers
-- **Software Engineering:** C++ (advanced), CUDA C/C++, Python, MATLAB, Intel MKL, software architecture
+- **Software Engineering:** C++, CUDA C/C++, Python, MATLAB, Wolfram Mathematica, software architecture
 - **Mathematical Modeling:** PDEs, Integral Equations, optimization methods, medical imaging algorithms
 
 ---
@@ -22,6 +21,7 @@ Core expertise in computational electromagnetics with successful applications ac
 ### Ph.D. Electronics and Communications Engineering, Polytechnic University of Turin, Italy, 2008 – 2011
 
 *Dissertation: Computational Methods for Microwave Imaging - Biomedical Applications*
+
 Focus: GPU-accelerated algorithms, inverse scattering problems, high-performance computing
 
 ---
@@ -29,6 +29,7 @@ Focus: GPU-accelerated algorithms, inverse scattering problems, high-performance
 ### M.Sc., (Laurea Specialistica), Biomedical Engineering Polytechnic University of Turin, Italy, 2005 – 2007
 
 *Thesis: Microwave Tomography for Breast Cancer Detection*
+
 Focus: Computational modeling, signal processing, medical imaging
 
 ---
@@ -36,6 +37,7 @@ Focus: Computational modeling, signal processing, medical imaging
 ### B.Sc., (Laurea Triennale), Software Engineering University of Palermo, Italy, 2001 – 2004
 
 *Thesis: Noise Reduction in Magnetic Resonance Imaging*
+
 Focus: Algorithm development, image processing
 
 ---
@@ -119,7 +121,7 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 ## Technical Skills
 
 ### High-Performance Computing
-- **GPU Programming:** CUDA (expert), OpenCL, GPU optimization techniques
+- **GPU Programming:** CUDA, OpenCL, GPU optimization techniques
 - **Parallel Computing:** MPI, OpenMP, multi-threading, distributed computing
 - **Performance Tools:** NVIDIA Nsight, Intel VTune, profiling and optimization
 
@@ -129,7 +131,7 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 - **Libraries:** Intel MKL, cuBLAS, cuSPARSE, cuSolver, cuDSS, LAPACK, PETSc
 
 ### Programming Languages & Tools
-- **Languages:** C++ (expert), CUDA C/C++ (expert), Python, MATLAB, Fortran
+- **Languages:** C++, CUDA C/C++, Python, Fortran
 - **Development:** Git, CMake, CI/CD, HPC clusters, PBS
 
 ---
@@ -166,8 +168,7 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 
 - **English:** Fluent (professional/academic)
 - **Italian:** Native
-- **German:** Working proficiency
-
+- **German:** Intermediate
 ---
 
 <img src="assets\my_logo.png" class="logo" width="80
