@@ -100,11 +100,13 @@ Developing high-performance algorithms for Altair Feko, a comprehensive computat
 
 ### High-Performance Computing & GPU Acceleration
 
+- **ATTARDO E.A.**, DELGADO C., VAN TONDER J., ZHABITSKIY I., GARCIA E., JAKOBUS U.,
+(2025), A High-Performance Multi-Core Hierarchical Preconditioner for Multiscale
+Electromagnetic Problems with the MLFMM, IEEE URSI Kleinheubacher Tagung 2025
+
 - **ATTARDO E.A.**, BORSIC A. (2012) – [GPU Acceleration of Algebraic Multigrid for Low-Frequency Finite Element Methods](assets/WAMG_aps2012.pdf) – IEEE APS/URSI, Chicago, doi: 10.1109/APS.2012.6348988
 
 - BORSIC A., **ATTARDO E.A.**, HALTER R. (2012) – Multi-GPU Jacobian Accelerated Computing for Soft Field Tomography, *Physiological Measurements*, Vol.33, 1703, doi: 10.1088/0967-3334/33/10/1703
-
-- **ATTARDO E.A.**, FRANCAVILLA M.A., VIPIANA F., VECCHI G. (2012) – Investigation on Accelerating FFT-Based Methods for the EFIE on Graphics Processors, *International Journal of Numerical Modelling*, doi: 10.1002/jnm.1867
 
 - BORSIC A., HOFFER E., **ATTARDO E.A.** (2014) – [GPU-Accelerated Real Time Simulation of Radio Frequency Ablation Thermal Dose](assets/RFA_Paper.pdf), Northeast Bioengineering Conference, Boston
 
