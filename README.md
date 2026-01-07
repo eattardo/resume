@@ -45,8 +45,22 @@ Focus: Algorithm development, image processing
 
 ## Professional Experience 💼
 
+### **Software Engineer-Advanced**
+**Siemens Digital Industries Software, Germany** | January 2026 – Present
+
+Developing high-performance electromagnetic simulation algorithms for Simcenter Feko within the Siemens Xcelerator ecosystem. Combining deep expertise in computational electromagnetics with modern AI-augmented development practices to accelerate innovation in solver technology.
+
+**Key Focus Areas:**
+- GPU-accelerated electromagnetic solvers and HPC optimization
+- Daily integration of generative AI and LLM-assisted coding for rapid prototyping, code generation, and technical documentation
+- Numerical methods development (MoM, FEM, FDTD, hybrid approaches)
+- Performance engineering and C++ modernization
+- Investigating AI/ML applications in computational electromagnetics workflows
+
+**Technologies:** CUDA, C++, Intel MKL, OpenMP, MPI, NVIDIA Nsight, LLM-assisted development tools
+
 ### **Senior Developer - Electromagnetic Solutions**
-**Siemens Digital Industries Software (Altair Engineering GmbH), Germany** | July 2014 – Present
+**Altair Engineering GmbH, Germany** | July 2014 – December 2025
 
 Developing high-performance algorithms for Altair Feko, a comprehensive computational electromagnetic software used globally for antenna design, electromagnetic compatibility, and radar cross-section analysis (and much more).
 
